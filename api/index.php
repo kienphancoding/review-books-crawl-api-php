@@ -19,7 +19,7 @@ route("/", function () {
             foreach ($match[1] as $item) {
                 preg_match('#<h2 class="post-box-title">(.+?)</h2>#si', $item, $a);
                 preg_match('#<a.*?>(.+?)</a>#si', $a[1], $title);
-                preg_match('#<a href="https://chiasemoi.com/(.*?).html">(.+?)</a>#si', $a[1], $href);
+                preg_match('#<a href="(.*?)">(.+?)</a>#si', $a[1], $href);
                 preg_match('#<img.*? src="(.*?)" class="attachment-tie-medium size-tie-medium wp-post-image" alt="" />#si', $item, $img);
                 $itemArr = array(
                     "img" => $img[1],
@@ -33,14 +33,16 @@ route("/", function () {
     echo json_encode($content["body"]);
 });
 
-route("/login", function () {
-    echo "Login page";
-});
 function route($path, $callback)
 {
     global $routes;
     $routes[$path] = $callback;
 }
+
+route("/login", function () {
+    echo "Login page";
+});
+
 function run()
 {
     global $routes;
