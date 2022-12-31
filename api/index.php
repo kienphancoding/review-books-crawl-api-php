@@ -1,11 +1,11 @@
 <?php
-$routes = [];
-route("/", function () {
-    header("Access-Control-Allow-Origin: *");
-    header("Content-Type: application/json; charset=UTF-8");
-    $content = array();
-    $content["body"] = array();
-    for ($i = 1; $i <= 12; $i++) {
+
+header("Access-Control-Allow-Origin: *");
+header("Content-Type: application/json; charset=UTF-8");
+
+$content = array();
+$content["body"] = array();
+   for ($i = 1; $i <= 12; $i++) {
         if ($i === 1) {
             $url = "https://chiasemoi.com/sach-tom-tat";
         } else {
@@ -30,26 +30,5 @@ route("/", function () {
             }
         }
     }
-    echo json_encode($content["body"]);
-});
-
-function route($path, $callback)
-{
-    global $routes;
-    $routes[$path] = $callback;
-}
-
-route("/login", function () {
-    echo "Login page";
-});
-
-function run()
-{
-    global $routes;
-    $uri = $_SERVER["REQUEST_URI"];
-    foreach ($routes as $path => $callback) {
-        if ($path !== $uri) continue;
-        $callback();
-    }
-}
-run();
+    
+echo json_encode($content["body"]);
