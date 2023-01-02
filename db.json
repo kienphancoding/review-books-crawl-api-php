@@ -1,0 +1,605 @@
+
+{
+  "body": [
+    {
+      "img": "https://chiasemoi.com/wp-content/uploads/2020/03/sach-sapiens-luoc-su-loai-nguoi-310x165.jpg",
+      "href": "https://chiasemoi.com/sapiens-luoc-su-loai-nguoi.html",
+      "title": "Tóm tắt sách Sapiens Lược Sử Loài Người"
+    },
+    {
+      "img": "https://chiasemoi.com/wp-content/uploads/2022/10/homo-deus-luoc-su-tuong-lai-310x165.jpg",
+      "href": "https://chiasemoi.com/homo-deus-luoc-su-tuong-lai.html",
+      "title": "Tóm tắt sách Homo Deus: Lược Sử Tương Lai"
+    },
+    {
+      "img": "https://chiasemoi.com/wp-content/uploads/2022/04/dong-cung-310x165.jpg",
+      "href": "https://chiasemoi.com/dong-cung.html",
+      "title": "Tóm tắt Đông Cung – Phỉ Ngã Tư Tồn"
+    },
+    {
+      "img": "https://chiasemoi.com/wp-content/uploads/2021/12/100-dieu-doanh-nhan-tre-can-biet-310x165.jpg",
+      "href": "https://chiasemoi.com/100-dieu-doanh-nhan-tre-can-biet.html",
+      "title": "Tóm tắt sách 100 Điều Doanh Nhân Trẻ Cần Biết"
+    },
+    {
+      "img": "https://chiasemoi.com/wp-content/uploads/2020/03/sach-di-tim-le-song-310x165.jpg",
+      "href": "https://chiasemoi.com/tom-tat-sach-di-tim-le-song.html",
+      "title": "Tóm tắt sách Đi Tìm Lẽ Sống"
+    },
+    {
+      "img": "https://chiasemoi.com/wp-content/uploads/2018/03/7-loai-hinh-thong-minh-310x165.jpg",
+      "href": "https://chiasemoi.com/sach-7-loai-hinh-thong-minh.html",
+      "title": "Tóm tắt sách 7 Loại Hình Thông Minh"
+    },
+    {
+      "img": "https://chiasemoi.com/wp-content/uploads/2021/09/sach-21-bai-hoc-cho-the-ky-21-310x165.jpg",
+      "href": "https://chiasemoi.com/tom-tat-sach-21-bai-hoc-cho-the-ky-21.html",
+      "title": "Tóm tắt sách 21 Bài Học Cho Thế Kỷ 21"
+    },
+    {
+      "img": "https://chiasemoi.com/wp-content/uploads/2021/08/sach-loi-tu-thu-cua-mot-bac-thay-quang-cao-310x165.jpg",
+      "href": "https://chiasemoi.com/sach-loi-tu-thu-cua-mot-bac-thay-quang-cao.html",
+      "title": "Tóm tắt sách Lời Tự Thú Của Một Bậc Thầy Quảng Cáo"
+    },
+    {
+      "img": "https://chiasemoi.com/wp-content/uploads/2021/07/nghe-sach-quang-ganh-lo-di-va-vui-song-310x165.jpg",
+      "href": "https://chiasemoi.com/nghe-sach-quang-ganh-lo-di-va-vui-song.html",
+      "title": "[Nghe sách nói] Quẳng Gánh Lo Đi Và Vui Sống"
+    },
+    {
+      "img": "https://chiasemoi.com/wp-content/uploads/2019/04/sach-nha-gia-kim-310x165.jpg",
+      "href": "https://chiasemoi.com/nghe-sach-nha-gia-kim.html",
+      "title": "[Nghe sách nói] Nhà Giả Kim"
+    },
+    {
+      "img": "https://chiasemoi.com/wp-content/uploads/2021/07/sach-dan-ong-sao-hoa-dan-ba-sao-kim-trong-hen-ho-310x165.jpg",
+      "href": "https://chiasemoi.com/sach-dan-ong-sao-hoa-dan-ba-sao-kim-trong-hen-ho.html",
+      "title": "Tóm tắt sách Đàn Ông Sao Hỏa Đàn Bà Sao Kim Trong Hẹn Hò"
+    },
+    {
+      "img": "https://chiasemoi.com/wp-content/uploads/2021/07/nghe-sach-trump-dung-bao-gio-bo-cuoc-310x165.jpg",
+      "href": "https://chiasemoi.com/nghe-sach-trump-dung-bao-gio-bo-cuoc.html",
+      "title": "[Nghe sách nói] Trump &#8211; Đừng Bao Giờ Bỏ Cuộc"
+    },
+    {
+      "img": "https://chiasemoi.com/wp-content/uploads/2019/12/sach-ba-nguoi-thay-vi-dai-310x165.jpg",
+      "href": "https://chiasemoi.com/nghe-sach-ba-nguoi-thay-vi-dai.html",
+      "title": "[Nghe sách nói] Ba Người Thầy Vĩ Đại"
+    },
+    {
+      "img": "https://chiasemoi.com/wp-content/uploads/2018/01/nhung-tam-long-cao-ca-310x165.jpg",
+      "href": "https://chiasemoi.com/nghe-sach-nhung-tam-long-cao-ca.html",
+      "title": "[Nghe sách nói] Những Tấm Lòng Cao Cả"
+    },
+    {
+      "img": "https://chiasemoi.com/wp-content/uploads/2018/11/de-men-phieu-luu-ky-310x165.jpg",
+      "href": "https://chiasemoi.com/nghe-sach-de-men-phieu-luu-ky.html",
+      "title": "[Nghe sách nói] Dế Mèn Phiêu Lưu Ký &#8211; Tô Hoài"
+    },
+    {
+      "img": "https://chiasemoi.com/wp-content/uploads/2021/01/sach-cac-nha-vo-dich-an-danh-cua-the-ky-xxi-310x165.jpg",
+      "href": "https://chiasemoi.com/sach-cac-nha-vo-dich-an-danh-cua-the-ky-xxi.html",
+      "title": "Tóm tắt sách Các Nhà Vô Địch Ẩn Danh Của Thế Kỷ XXI"
+    },
+    {
+      "img": "https://chiasemoi.com/wp-content/uploads/2021/01/sach-ngu-luan-thu-310x165.jpg",
+      "href": "https://chiasemoi.com/sach-ngu-luan-thu.html",
+      "title": "Tóm tắt sách Ngũ Luân Thư"
+    },
+    {
+      "img": "https://chiasemoi.com/wp-content/uploads/2020/12/sach-cho-khe-nhan-vang-310x165.jpg",
+      "href": "https://chiasemoi.com/sach-cho-khe-nhan-vang.html",
+      "title": "Tóm tắt sách Cho Khế Nhận Vàng"
+    },
+    {
+      "img": "https://chiasemoi.com/wp-content/uploads/2020/12/sach-dam-that-bai-310x165.jpg",
+      "href": "https://chiasemoi.com/sach-dam-that-bai.html",
+      "title": "Tóm tắt sách Dám Thất Bại"
+    },
+    {
+      "img": "https://chiasemoi.com/wp-content/uploads/2020/12/sach-bong-bong-kinh-te-va-lan-song-vo-no-quoc-gia-310x165.jpg",
+      "href": "https://chiasemoi.com/sach-bong-bong-kinh-te-va-lan-song-vo-no-quoc-gia.html",
+      "title": "Tóm tắt sách Bong Bóng Kinh Tế Và Làn Sóng Vỡ Nợ Quốc Gia"
+    },
+    {
+      "img": "https://chiasemoi.com/wp-content/uploads/2020/12/sach-ban-thong-minh-hon-ban-nghi-310x165.jpg",
+      "href": "https://chiasemoi.com/sach-ban-thong-minh-hon-ban-nghi.html",
+      "title": "Tóm tắt sách Bạn Thông Minh Hơn Bạn Nghĩ"
+    },
+    {
+      "img": "https://chiasemoi.com/wp-content/uploads/2020/12/sach-101-meo-doi-pho-voi-nhan-vien-310x165.jpg",
+      "href": "https://chiasemoi.com/sach-101-meo-doi-pho-voi-nhan-vien.html",
+      "title": "Tóm tắt sách 101 Mẹo Đối Phó Với Nhân Viên"
+    },
+    {
+      "img": "https://chiasemoi.com/wp-content/uploads/2018/10/nha-quan-ly-thoang-310x165.jpg",
+      "href": "https://chiasemoi.com/sach-nha-quan-ly-thoang.html",
+      "title": "Tóm tắt sách Nhà Quản Lý Thoáng"
+    },
+    {
+      "img": "https://chiasemoi.com/wp-content/uploads/2020/12/sach-cam-nang-kinh-doanh-quan-ly-khung-hoang-310x165.jpg",
+      "href": "https://chiasemoi.com/sach-cam-nang-kinh-doanh-quan-ly-khung-hoang.html",
+      "title": "Tóm tắt sách Cẩm Nang Kinh Doanh &#8211; Quản Lý Khủng Hoảng"
+    },
+    {
+      "img": "https://chiasemoi.com/wp-content/uploads/2020/12/sach-nhung-trieu-phu-tham-lang-310x165.jpg",
+      "href": "https://chiasemoi.com/sach-nhung-trieu-phu-tham-lang.html",
+      "title": "Tóm tắt sách Những Triệu Phú Thầm Lặng"
+    },
+    {
+      "img": "https://chiasemoi.com/wp-content/uploads/2020/12/sach-dan-than-310x165.jpg",
+      "href": "https://chiasemoi.com/sach-dan-than.html",
+      "title": "Tóm tắt sách Dấn Thân &#8211; LEARN IN"
+    },
+    {
+      "img": "https://chiasemoi.com/wp-content/uploads/2020/11/sach-22-quy-luat-bat-bien-trong-marketing-310x165.jpg",
+      "href": "https://chiasemoi.com/sach-22-quy-luat-bat-bien-trong-marketing.html",
+      "title": "Tóm tắt sách 22 Quy Luật Bất Biến Trong Marketing"
+    },
+    {
+      "img": "https://chiasemoi.com/wp-content/uploads/2020/11/sach-suc-manh-cua-su-khich-le-300x165.jpg",
+      "href": "https://chiasemoi.com/sach-suc-manh-cua-su-khich-le.html",
+      "title": "Tóm tắt sách Sức mạnh của sự khích lệ"
+    },
+    {
+      "img": "https://chiasemoi.com/wp-content/uploads/2020/10/sach-nguoi-nam-cham-bi-mat-cua-luat-hap-dan-310x165.jpg",
+      "href": "https://chiasemoi.com/tom-tat-sach-nguoi-nam-cham-bi-mat-cua-luat-hap-dan.html",
+      "title": "Tóm tắt sách Người Nam Châm &#8211; Bí Mật Của Luật Hấp Dẫn"
+    },
+    {
+      "img": "https://chiasemoi.com/wp-content/uploads/2020/09/sach-made-in-korea-300x165.jpg",
+      "href": "https://chiasemoi.com/sach-made-in-korea.html",
+      "title": "Tóm tắt sách Made In Korea &#8211; Câu chuyện cuộc đời Chung Ju Yung &#038; Công cuộc gây dựng đế chế Huyndai từ gian khó"
+    },
+    {
+      "img": "https://chiasemoi.com/wp-content/uploads/2018/11/90-giay-de-thu-hut-bat-ky-ai-310x165.jpg",
+      "href": "https://chiasemoi.com/sach-90-giay-de-thu-hut-bat-ky-ai.html",
+      "title": "Tóm tắt sách 90 Giây Để Thu Hút Bất Kỳ Ai"
+    },
+    {
+      "img": "https://chiasemoi.com/wp-content/uploads/2020/09/sach-48-nguyen-tac-chu-chot-cua-quyen-luc-310x165.jpg",
+      "href": "https://chiasemoi.com/tom-tat-sach-48-nguyen-tac-chu-chot-cua-quyen-luc.html",
+      "title": "Tóm tắt sách 48 Nguyên Tắc Chủ Chốt Của Quyền Lực"
+    },
+    {
+      "img": "https://chiasemoi.com/wp-content/uploads/2020/08/sach-cach-song-310x165.jpg",
+      "href": "https://chiasemoi.com/sach-cach-song.html",
+      "title": "Tóm tắt sách Cách Sống &#8211; Từ bình thường trở nên phi thường"
+    },
+    {
+      "img": "https://chiasemoi.com/wp-content/uploads/2020/04/sach-chuyen-con-meo-day-hai-au-bay-310x165.jpg",
+      "href": "https://chiasemoi.com/tom-tat-sach-chuyen-con-meo-day-hai-au-bay.html",
+      "title": "Tóm tắt sách Chuyện Con Mèo Dạy Hải Âu Bay"
+    },
+    {
+      "img": "https://chiasemoi.com/wp-content/uploads/2020/07/sach-xay-dung-de-truong-ton-310x165.jpg",
+      "href": "https://chiasemoi.com/sach-xay-dung-de-truong-ton.html",
+      "title": "Tóm tắt sách Xây Dựng Để Trường Tồn"
+    },
+    {
+      "img": "https://chiasemoi.com/wp-content/uploads/2020/06/sach-nhan-to-enzyme-thuc-hanh-310x165.jpg",
+      "href": "https://chiasemoi.com/sach-nhan-to-enzyme-thuc-hanh.html",
+      "title": "Tóm tắt sách Nhân Tố Enzyme &#8211; Thực Hành"
+    },
+    {
+      "img": "https://chiasemoi.com/wp-content/uploads/2020/05/sach-lanh-dao-va-su-tu-lua-doi-310x165.jpg",
+      "href": "https://chiasemoi.com/sach-lanh-dao-va-su-tu-lua-doi.html",
+      "title": "Tóm tắt sách Lãnh Đạo Và Sự Tự Lừa Dối"
+    },
+    {
+      "img": "https://chiasemoi.com/wp-content/uploads/2020/05/ban-co-the-dam-phan-bat-cu-dieu-gi-310x165.jpg",
+      "href": "https://chiasemoi.com/sach-ban-co-the-dam-phan-bat-cu-dieu-gi.html",
+      "title": "Tóm tắt sách Bạn Có Thể Đàm Phán Bất Cứ Điều Gì"
+    },
+    {
+      "img": "https://chiasemoi.com/wp-content/uploads/2020/04/sach-100-quy-luat-bat-bien-de-thanh-cong-trong-kinh-doanh-310x165.jpg",
+      "href": "https://chiasemoi.com/sach-100-quy-luat-bat-bien-de-thanh-cong-trong-kinh-doanh.html",
+      "title": "Tóm tắt sách 100 Quy Luật Bất Biến Để Thành Công Trong Kinh Doanh"
+    },
+    {
+      "img": "https://chiasemoi.com/wp-content/uploads/2020/04/sach-phot-lo-tat-ca-va-bo-di-ma-song-310x165.jpg",
+      "href": "https://chiasemoi.com/sach-phot-lo-tat-ca-va-bo-di-ma-song.html",
+      "title": "Tóm tắt sách Phớt Lờ Tất Cả Và Bơ Đi Mà Sống"
+    },
+    {
+      "img": "https://chiasemoi.com/wp-content/uploads/2020/04/sach-tu-duy-dot-pha-310x165.jpg",
+      "href": "https://chiasemoi.com/sach-tu-duy-dot-pha.html",
+      "title": "Tóm tắt sách Tư Duy Đột Phá"
+    },
+    {
+      "img": "https://chiasemoi.com/wp-content/uploads/2019/12/sach-danh-thuc-con-nguoi-phi-thuong-trong-ban-310x165.jpg",
+      "href": "https://chiasemoi.com/tom-tat-sach-danh-thuc-con-nguoi-phi-thuong-trong-ban.html",
+      "title": "Tóm tắt sách Đánh Thức Con Người Phi Thường Trong Bạn"
+    },
+    {
+      "img": "https://chiasemoi.com/wp-content/uploads/2020/04/sach-nghe-thuat-ban-hang-bac-cao-310x165.jpg",
+      "href": "https://chiasemoi.com/sach-nghe-thuat-ban-hang-bac-cao.html",
+      "title": "Tóm tắt sách Nghệ Thuật Bán Hàng Bậc Cao"
+    },
+    {
+      "img": "https://chiasemoi.com/wp-content/uploads/2020/04/sach-vi-giam-doc-mot-phut-310x165.jpg",
+      "href": "https://chiasemoi.com/sach-vi-giam-doc-mot-phut.html",
+      "title": "Tóm tắt sách Vị Giám Đốc Một Phút"
+    },
+    {
+      "img": "https://chiasemoi.com/wp-content/uploads/2020/04/sach-nghe-thuat-tu-duy-ranh-mach-310x165.jpg",
+      "href": "https://chiasemoi.com/sach-nghe-thuat-tu-duy-ranh-mach.html",
+      "title": "Tóm tắt sách Nghệ Thuật Tư Duy Rành Mạch"
+    },
+    {
+      "img": "https://chiasemoi.com/wp-content/uploads/2020/04/sach-hen-ban-tren-dinh-thanh-cong-310x165.jpg",
+      "href": "https://chiasemoi.com/sach-hen-ban-tren-dinh-thanh-cong.html",
+      "title": "Tóm tắt sách Hẹn Bạn Trên Đỉnh Thành Công"
+    },
+    {
+      "img": "https://chiasemoi.com/wp-content/uploads/2020/04/sach-khoi-nghiep-voi-100-310x165.jpg",
+      "href": "https://chiasemoi.com/sach-khoi-nghiep-voi-100.html",
+      "title": "Tóm tắt sách Khởi Nghiệp Với 100$"
+    },
+    {
+      "img": "https://chiasemoi.com/wp-content/uploads/2017/12/the-gioi-phang-310x165.jpg",
+      "href": "https://chiasemoi.com/tom-tat-sach-the-gio-phang.html",
+      "title": "Tóm tắt sách Thế Giới Phẳng"
+    },
+    {
+      "img": "https://chiasemoi.com/wp-content/uploads/2020/02/sach-tu-duy-toi-uu-310x165.jpg",
+      "href": "https://chiasemoi.com/sach-tu-duy-toi-uu.html",
+      "title": "Tóm tắt sách Tư Duy Tối Ưu"
+    },
+    {
+      "img": "https://chiasemoi.com/wp-content/uploads/2020/02/sach-nghi-nhu-nguoi-thang-310x165.jpg",
+      "href": "https://chiasemoi.com/sach-nghi-nhu-nguoi-thang.html",
+      "title": "Tóm tắt sách Nghĩ Như Người Thắng"
+    },
+    {
+      "img": "https://chiasemoi.com/wp-content/uploads/2020/01/sach-suc-manh-cua-thoi-quen-310x165.jpg",
+      "href": "https://chiasemoi.com/sach-suc-manh-cua-thoi-quen.html",
+      "title": "Tóm tắt sách Sức Mạnh Của Thói Quen"
+    },
+    {
+      "img": "https://chiasemoi.com/wp-content/uploads/2019/03/sach-ngay-xua-co-mot-con-bo-310x165.jpg",
+      "href": "https://chiasemoi.com/nghe-sach-ngay-xua-co-mot-con-bo.html",
+      "title": "[Nghe sách nói] Ngày Xưa Có Một Con Bò"
+    },
+    {
+      "img": "https://chiasemoi.com/wp-content/uploads/2018/07/man-dam-nhan-sinh-310x165.jpg",
+      "href": "https://chiasemoi.com/sach-man-dam-nhan-sinh.html",
+      "title": "Tóm tắt sách Mạn Đàm Nhân Sinh"
+    },
+    {
+      "img": "https://chiasemoi.com/wp-content/uploads/2018/10/phut-nhin-lai-minh-310x165.jpg",
+      "href": "https://chiasemoi.com/nghe-sach-phut-nhin-lai-minh.html",
+      "title": "[Nghe sách nói] Phút Nhìn Lại Mình"
+    },
+    {
+      "img": "https://chiasemoi.com/wp-content/uploads/2018/01/khong-bao-gio-la-that-bai-tat-ca-la-thu-thach-310x165.jpg",
+      "href": "https://chiasemoi.com/nghe-sach-khong-bao-gio-la-that-bai-tat-ca-la-thu-thach.html",
+      "title": "[Nghe sách nói] Không Bao Giờ Là Thất Bại! Tất Cả Là Thử Thách"
+    },
+    {
+      "img": "https://chiasemoi.com/wp-content/uploads/2020/01/sach-bai-hoc-phan-lan-2-0-310x165.jpg",
+      "href": "https://chiasemoi.com/sach-bai-hoc-phan-lan-2-0.html",
+      "title": "Tóm tắt sách Bài Học Phần Lan 2.0"
+    },
+    {
+      "img": "https://chiasemoi.com/wp-content/uploads/2020/01/sach-den-starbucks-mua-ca-phe-coc-lon-310x165.jpg",
+      "href": "https://chiasemoi.com/sach-den-starbucks-mua-ca-phe-coc-lon.html",
+      "title": "Tóm tắt sách Đến Starbucks Mua Cà Phê Cốc Lớn"
+    },
+    {
+      "img": "https://chiasemoi.com/wp-content/uploads/2020/01/sach-nghe-thuat-giao-tiep-de-thanh-cong-310x165.jpg",
+      "href": "https://chiasemoi.com/sach-nghe-thuat-giao-tiep-de-thanh-cong.html",
+      "title": "Tóm tắt sách Nghệ Thuật Giao Tiếp Để Thành Công"
+    },
+    {
+      "img": "https://chiasemoi.com/wp-content/uploads/2018/08/lam-chu-tu-duy-thay-doi-van-menh-310x165.jpg",
+      "href": "https://chiasemoi.com/sach-lam-chu-tu-duy-thay-doi-van-menh.html",
+      "title": "Tóm tắt sách Làm Chủ Tư Duy, Thay Đổi Vận Mệnh"
+    },
+    {
+      "img": "https://chiasemoi.com/wp-content/uploads/2019/12/sach-nang-doan-kim-cuong-310x165.jpg",
+      "href": "https://chiasemoi.com/sach-nang-doan-kim-cuong.html",
+      "title": "Tóm tắt sách Năng Đoạn Kim Cương"
+    },
+    {
+      "img": "https://chiasemoi.com/wp-content/uploads/2019/12/sach-nhung-quy-luat-moi-trong-ban-le-310x165.jpg",
+      "href": "https://chiasemoi.com/sach-nhung-quy-luat-moi-trong-ban-le.html",
+      "title": "Tóm tắt sách Những Quy Luật Mới Trong Bán Lẻ"
+    },
+    {
+      "img": "https://chiasemoi.com/wp-content/uploads/2019/12/sach-suc-manh-cua-toan-tam-toan-y-310x165.jpg",
+      "href": "https://chiasemoi.com/sach-suc-manh-cua-toan-tam-toan-y.html",
+      "title": "Tóm tắt sách Sức Mạnh Của Toàn Tâm Toàn Ý"
+    },
+    {
+      "img": "https://chiasemoi.com/wp-content/uploads/2019/08/nhung-cuon-sach-hay-nhat-cua-donald-trump-1-310x165.jpg",
+      "href": "https://chiasemoi.com/duong-den-thanh-cong-dinh-cao.html",
+      "title": "[Nghe sách nói] Đường Đến Thành Công Đỉnh Cao"
+    },
+    {
+      "img": "https://chiasemoi.com/wp-content/uploads/2019/12/sach-bo-ba-xuat-chung-han-quoc-310x165.jpg",
+      "href": "https://chiasemoi.com/sach-bo-ba-xuat-chung-han-quoc.html",
+      "title": "Tóm tắt sách Bộ Ba Xuất Chúng Hàn Quốc"
+    },
+    {
+      "img": "https://chiasemoi.com/wp-content/uploads/2019/10/sach-chien-binh-cau-vong-310x165.jpg",
+      "href": "https://chiasemoi.com/nghe-sach-chien-binh-cau-vong.html",
+      "title": "[Nghe sách nói] Chiến Binh Cầu Vồng"
+    },
+    {
+      "img": "https://chiasemoi.com/wp-content/uploads/2019/12/tom-tat-sach-nha-lanh-dao-khong-chuc-danh-310x165.jpg",
+      "href": "https://chiasemoi.com/tom-tat-sach-nha-lanh-dao-khong-chuc-danh.html",
+      "title": "Tóm tắt sách Nhà Lãnh Đạo Không Chức Danh"
+    },
+    {
+      "img": "https://chiasemoi.com/wp-content/uploads/2019/12/sach-nghe-thuat-kaizen-tuyet-voi-cua-toyota-310x165.jpg",
+      "href": "https://chiasemoi.com/sach-nghe-thuat-kaizen-tuyet-voi-cua-toyota.html",
+      "title": "Tóm tắt sách Nghệ Thuật Kaizen Tuyệt Vời Của Toyota"
+    },
+    {
+      "img": "https://chiasemoi.com/wp-content/uploads/2019/12/sach-bi-mat-cua-may-man-310x165.jpg",
+      "href": "https://chiasemoi.com/sach-bi-mat-cua-may-man.html",
+      "title": "Tóm tắt sách Bí Mật Của May Mắn"
+    },
+    {
+      "img": "https://chiasemoi.com/wp-content/uploads/2019/11/sach-7-thoi-quen-cua-ban-tre-thanh-dat-310x165.jpg",
+      "href": "https://chiasemoi.com/sach-7-thoi-quen-cua-ban-tre-thanh-dat.html",
+      "title": "Tóm tắt sách 7 Thói Quen Của Bạn Trẻ Thành Đạt"
+    },
+    {
+      "img": "https://chiasemoi.com/wp-content/uploads/2019/11/sach-triet-ly-kinh-doanh-thuc-tien-310x165.jpg",
+      "href": "https://chiasemoi.com/sach-triet-ly-kinh-doanh-thuc-tien.html",
+      "title": "[Nghe sách nói] Sách Triết Lý Kinh Doanh Thực Tiễn"
+    },
+    {
+      "img": "https://chiasemoi.com/wp-content/uploads/2019/11/sach-moi-ngay-mot-bai-hoc-310x165.jpg",
+      "href": "https://chiasemoi.com/sach-moi-ngay-mot-bai-hoc.html",
+      "title": "Tóm tắt sách Mỗi Ngày Một Bài Học"
+    },
+    {
+      "img": "https://chiasemoi.com/wp-content/uploads/2019/11/sach-con-duong-thang-tien-310x165.jpg",
+      "href": "https://chiasemoi.com/sach-con-duong-thang-tien.html",
+      "title": "Tóm tắt sách Con Đường Thăng Tiến"
+    },
+    {
+      "img": "https://chiasemoi.com/wp-content/uploads/2018/09/ma-van-triet-ly-song-cua-toi-310x165.jpg",
+      "href": "https://chiasemoi.com/sach-ma-van-triet-ly-song-cua-toi.html",
+      "title": "Tóm tắt sách Mã Vân &#8211; Triết Lý Sống Của Tôi"
+    },
+    {
+      "img": "https://chiasemoi.com/wp-content/uploads/2019/11/sach-ban-ki-moon-hay-hoc-nhu-ke-ngoc-va-uoc-mo-nhu-thien-tai-310x165.jpg",
+      "href": "https://chiasemoi.com/sach-ban-ki-moon-hay-hoc-nhu-ke-ngoc-va-uoc-mo-nhu-thien-tai.html",
+      "title": "Tóm tắt sách Ban Ki Moon &#8211; Hãy Học Như Kẻ Ngốc Và Ước Mơ Như Thiên Tài"
+    },
+    {
+      "img": "https://chiasemoi.com/wp-content/uploads/2019/11/sach-mac-ke-no-lam-toi-di-310x165.jpg",
+      "href": "https://chiasemoi.com/sach-mac-ke-no-lam-toi-di.html",
+      "title": "Tóm tắt sách Mặc Kệ Nó Làm Tới Đi"
+    },
+    {
+      "img": "https://chiasemoi.com/wp-content/uploads/2019/11/tom-tat-sach-mo-loi-310x165.jpg",
+      "href": "https://chiasemoi.com/tom-tat-sach-mo-loi.html",
+      "title": "Tóm tắt sách Mở Lối"
+    },
+    {
+      "img": "https://chiasemoi.com/wp-content/uploads/2019/10/sach-nhung-buoc-don-gian-den-uoc-mo-310x165.jpg",
+      "href": "https://chiasemoi.com/sach-nhung-buoc-don-gian-den-uoc-mo.html",
+      "title": "Tóm tắt sách Những Bước Đơn Giản Đến Ước Mơ"
+    },
+    {
+      "img": "https://chiasemoi.com/wp-content/uploads/2019/08/sach-bai-hoc-dieu-ky-tu-chiec-xe-rac-310x165.jpg",
+      "href": "https://chiasemoi.com/sach-bai-hoc-dieu-ky-tu-chiec-xe-rac.html",
+      "title": "Tóm tắt sách Bài Học Diệu Kỳ Từ Chiếc Xe Rác"
+    },
+    {
+      "img": "https://chiasemoi.com/wp-content/uploads/2019/08/sach-nghe-thuat-phan-quyen-giao-viec-310x165.jpg",
+      "href": "https://chiasemoi.com/sach-nghe-thuat-phan-quyen-giao-viec.html",
+      "title": "Tóm tắt sách Nghệ Thuật Phân Quyền &#038; Giao Việc"
+    },
+    {
+      "img": "https://chiasemoi.com/wp-content/uploads/2019/08/sach-nguoi-ban-hang-vi-dai-nhat-the-gioi-310x165.jpg",
+      "href": "https://chiasemoi.com/sach-nguoi-ban-hang-vi-dai-nhat-the-gioi.html",
+      "title": "Tóm tắt sách Người Bán Hàng Vĩ Đại Nhất Thế Giới"
+    },
+    {
+      "img": "https://chiasemoi.com/wp-content/uploads/2019/08/sach-kham-pha-suc-manh-ban-than-310x165.jpg",
+      "href": "https://chiasemoi.com/sach-kham-pha-suc-manh-ban-than.html",
+      "title": "Tóm tắt sách Khám Phá Sức Mạnh Bản Thân"
+    },
+    {
+      "img": "https://chiasemoi.com/wp-content/uploads/2019/08/sach-khac-biet-hay-la-chet-310x165.jpg",
+      "href": "https://chiasemoi.com/sach-khac-biet-hay-la-chet.html",
+      "title": "Tóm tắt sách Khác Biệt Hay Là Chết"
+    },
+    {
+      "img": "https://chiasemoi.com/wp-content/uploads/2019/07/sach-khong-bao-gio-la-that-bai-tat-ca-la-thu-thach-310x165.jpg",
+      "href": "https://chiasemoi.com/sach-khong-bao-gio-la-that-bai-tat-ca-la-thu-thach.html",
+      "title": "Tóm tắt sách Không Bao Giờ Là Thất Bại! Tất Cả Là Thử Thách"
+    },
+    {
+      "img": "https://chiasemoi.com/wp-content/uploads/2019/06/sach-loi-hua-ve-mot-cay-but-chi-310x165.jpg",
+      "href": "https://chiasemoi.com/sach-loi-hua-ve-mot-cay-but-chi.html",
+      "title": "Tóm tắt sách Lời Hứa Về Một Cây Bút Chì"
+    },
+    {
+      "img": "https://chiasemoi.com/wp-content/uploads/2019/06/sach-tieng-chim-hot-trong-bui-man-gai-310x165.jpg",
+      "href": "https://chiasemoi.com/sach-tieng-chim-hot-trong-bui-man-gai.html",
+      "title": "Tóm tắt sách Tiếng Chim Hót Trong Bụi Mận Gai"
+    },
+    {
+      "img": "https://chiasemoi.com/wp-content/uploads/2019/06/sach-tu-tot-den-vi-dai-min-310x165.jpg",
+      "href": "https://chiasemoi.com/sach-tu-tot-den-vi-dai.html",
+      "title": "Tóm tắt sách Từ Tốt Đến Vĩ Đại"
+    },
+    {
+      "img": "https://chiasemoi.com/wp-content/uploads/2019/06/sach-phi-ly-tri-310x165.jpg",
+      "href": "https://chiasemoi.com/sach-phi-ly-tri.html",
+      "title": "Tóm tắt sách Phi Lý Trí"
+    },
+    {
+      "img": "https://chiasemoi.com/wp-content/uploads/2019/06/sach-90-ngay-dau-tien-lam-sep-310x165.jpg",
+      "href": "https://chiasemoi.com/sach-90-ngay-dau-tien-lam-sep.html",
+      "title": "Tóm tắt sách 90 Ngày Đầu Tiên Làm Sếp"
+    },
+    {
+      "img": "https://chiasemoi.com/wp-content/uploads/2019/06/sach-mat-day-tam-den-310x165.jpg",
+      "href": "https://chiasemoi.com/sach-mat-day-tam-den.html",
+      "title": "Tóm tắt sách Mặt Dày Tâm Đen"
+    },
+    {
+      "img": "https://chiasemoi.com/wp-content/uploads/2019/05/sach-ong-tram-tuoi-treo-qua-cua-so-va-bien-mat-310x165.jpg",
+      "href": "https://chiasemoi.com/sach-ong-tram-tuoi-treo-qua-cua-so-va-bien-mat.html",
+      "title": "Tóm tắt sách Ông Trăm Tuổi Trèo Qua Cửa Sổ Và Biến Mất"
+    },
+    {
+      "img": "https://chiasemoi.com/wp-content/uploads/2019/04/sach-thinh-vuong-tai-chinh-tuoi-30-310x165.jpg",
+      "href": "https://chiasemoi.com/sach-thinh-vuong-tai-chinh-tuoi-30.html",
+      "title": "Tóm tắt sách Thịnh Vượng Tài Chính Tuổi 30"
+    },
+    {
+      "img": "https://chiasemoi.com/wp-content/uploads/2019/04/sach-ai-lay-mieng-pho-mat-cua-toi-310x165.jpg",
+      "href": "https://chiasemoi.com/sach-ai-lay-mieng-pho-mat-cua-toi.html",
+      "title": "Tóm tắt sách Ai lấy miếng Pho mát của tôi"
+    },
+    {
+      "img": "https://chiasemoi.com/wp-content/uploads/2019/04/sach-nhung-nguyen-tac-vang-cua-napoleon-hill-310x165.jpg",
+      "href": "https://chiasemoi.com/sach-nhung-nguyen-tac-vang-cua-napoleon-hill.html",
+      "title": "Tóm tắt sách Những Quy Tắc Vàng Của Napoleon Hill"
+    },
+    {
+      "img": "https://chiasemoi.com/wp-content/uploads/2019/04/sach-phuong-thuc-toyota-310x165.jpg",
+      "href": "https://chiasemoi.com/sach-phuong-thuc-toyota.html",
+      "title": "Tóm tắt sách Phương Thức Toyota"
+    },
+    {
+      "img": "https://chiasemoi.com/wp-content/uploads/2019/04/sach-ty-phu-ban-giay-310x165.jpg",
+      "href": "https://chiasemoi.com/sach-ty-phu-ban-giay.html",
+      "title": "Tóm tắt sách Tỷ Phú Bán Giày"
+    },
+    {
+      "img": "https://chiasemoi.com/wp-content/uploads/2019/04/sach-cu-hich-310x165.jpg",
+      "href": "https://chiasemoi.com/sach-cu-hich.html",
+      "title": "Tóm tắt sách Cú Hích &#8211; Cuốn Sách Tạo Nên Sự Khác Biệt"
+    },
+    {
+      "img": "https://chiasemoi.com/wp-content/uploads/2019/04/sach-nha-gia-kim-310x165.jpg",
+      "href": "https://chiasemoi.com/sach-nha-gia-kim.html",
+      "title": "Tóm tắt sách Nhà Giả Kim &#8211; Paulo Coelho"
+    },
+    {
+      "img": "https://chiasemoi.com/wp-content/uploads/2019/04/sach-doc-het-trai-tim-310x165.jpg",
+      "href": "https://chiasemoi.com/sach-doc-het-trai-tim.html",
+      "title": "Tóm tắt sách Dốc Hết Trái Tim &#8211; Cách Starbucks Xây Dựng Công Ty Bằng Từng Tách Cà Phê"
+    },
+    {
+      "img": "https://chiasemoi.com/wp-content/uploads/2019/04/sach-21-nguyen-tac-tu-do-tai-chinh-310x165.jpg",
+      "href": "https://chiasemoi.com/sach-21-nguyen-tac-tu-do-tai-chinh.html",
+      "title": "Tóm tắt sách 21 Nguyên Tắc Tự Do Tài Chính (Brian Tracy)"
+    },
+    {
+      "img": "https://chiasemoi.com/wp-content/uploads/2019/04/sach-bi-quyet-gay-dung-co-nghiep-bac-ty-310x165.jpg",
+      "href": "https://chiasemoi.com/sach-bi-quyet-gay-dung-co-nghiep-bac-ty.html",
+      "title": "Tóm tắt sách Bí Quyết Gây Dựng Cơ Nghiệp Bạc Tỷ"
+    },
+    {
+      "img": "https://chiasemoi.com/wp-content/uploads/2019/03/sach-13-nguyen-tac-nghi-giau-lam-giau-310x165.jpg",
+      "href": "https://chiasemoi.com/sach-13-nguyen-tac-nghi-giau-lam-giau.html",
+      "title": "Tóm tắt sách 13 Nguyên Tắc Nghĩ Giàu Làm Giàu &#8211; Think And Grow Rich"
+    },
+    {
+      "img": "https://chiasemoi.com/wp-content/uploads/2019/03/sach-elon-musk-310x165.jpg",
+      "href": "https://chiasemoi.com/sach-elon-musk.html",
+      "title": "Tóm tắt sách Elon Musk &#8211; Tesla, SpaceX và sứ mệnh tìm kiếm một tương lai ngoài sức tưởng tượng"
+    },
+    {
+      "img": "https://chiasemoi.com/wp-content/uploads/2019/03/sach-tuan-lam-viec-4-gio-310x165.jpg",
+      "href": "https://chiasemoi.com/sach-tuan-lam-viec-4-gio.html",
+      "title": "Tóm tắt sách Tuần Làm Việc 4 Giờ"
+    },
+    {
+      "img": "https://chiasemoi.com/wp-content/uploads/2019/03/sach-phu-nu-thong-minh-khong-o-goc-van-phong-1-310x165.jpg",
+      "href": "https://chiasemoi.com/sach-phu-nu-thong-minh-khong-o-goc-van-phong.html",
+      "title": "Tóm tắt sách Phụ Nữ Thông Minh Không Ở Góc Văn Phòng"
+    },
+    {
+      "img": "https://chiasemoi.com/wp-content/uploads/2019/03/sach-khoi-nghiep-tinh-gon-310x165.jpg",
+      "href": "https://chiasemoi.com/sach-khoi-nghiep-tinh-gon.html",
+      "title": "Tóm tắt sách Khởi Nghiệp Tinh Gọn"
+    },
+    {
+      "img": "https://chiasemoi.com/wp-content/uploads/2019/03/sach-dam-nghi-lon-310x165.jpg",
+      "href": "https://chiasemoi.com/sach-dam-nghi-lon.html",
+      "title": "Tóm tắt sách Dám Nghĩ Lớn"
+    },
+    {
+      "img": "https://chiasemoi.com/wp-content/uploads/2019/03/sach-neu-toi-biet-duoc-khi-con-20-310x165.jpg",
+      "href": "https://chiasemoi.com/sach-neu-toi-biet-duoc-khi-con-20.html",
+      "title": "Tóm tắt sách Nếu Tôi Biết Được Khi Còn 20"
+    },
+    {
+      "img": "https://chiasemoi.com/wp-content/uploads/2019/03/sach-phep-tac-cua-loai-soi-310x165.jpg",
+      "href": "https://chiasemoi.com/sach-phep-tac-cua-loai-soi.html",
+      "title": "Tóm tắt sách Phép Tắc Của Loài Sói"
+    },
+    {
+      "img": "https://chiasemoi.com/wp-content/uploads/2019/03/sach-ngay-xua-co-mot-con-bo-310x165.jpg",
+      "href": "https://chiasemoi.com/sach-ngay-xua-co-mot-con-bo.html",
+      "title": "Tóm tắt sách Ngày Xưa Có Một Con Bò&#8230;"
+    },
+    {
+      "img": "https://chiasemoi.com/wp-content/uploads/2019/03/sach-10-dieu-khac-biet-nhat-giua-ke-thang-va-nguoi-thua-310x165.jpg",
+      "href": "https://chiasemoi.com/sach-10-dieu-khac-biet-nhat-giua-ke-thang-va-nguoi-thua.html",
+      "title": "Tóm tắt sách 10 Điều Khác Biệt Nhất Giữa Kẻ Thắng Và Người Thua"
+    },
+    {
+      "img": "https://chiasemoi.com/wp-content/uploads/2019/03/sach-7-thoi-quen-de-thanh-dat-310x165.jpg",
+      "href": "https://chiasemoi.com/sach-7-thoi-quen-de-thanh-dat.html",
+      "title": "Tóm tắt sách 7 Thói Quen Để Thành Đạt"
+    },
+    {
+      "img": "https://chiasemoi.com/wp-content/uploads/2019/03/sach-chien-thang-con-quy-trong-ban-310x165.jpg",
+      "href": "https://chiasemoi.com/sach-chien-thang-con-quy-trong-ban.html",
+      "title": "Tóm tắt sách Chiến Thắng Con Quỷ Trong Bạn"
+    },
+    {
+      "img": "https://chiasemoi.com/wp-content/uploads/2019/02/sach-quoc-gia-khoi-nghiep-310x165.jpg",
+      "href": "https://chiasemoi.com/sach-quoc-gia-khoi-nghiep.html",
+      "title": "Tóm tắt sách Quốc Gia Khởi Nghiệp &#8211; Sự Phát Triển Thần Kỳ Của Nền Kinh Tế Israel"
+    },
+    {
+      "img": "https://chiasemoi.com/wp-content/uploads/2019/02/sach-dac-nhan-tam-310x165.jpg",
+      "href": "https://chiasemoi.com/sach-dac-nhan-tam.html",
+      "title": "Tóm tắt sách Đắc Nhân Tâm &#8211; Nghệ thuật đối nhân xử thế"
+    },
+    {
+      "img": "https://chiasemoi.com/wp-content/uploads/2019/02/sach-khi-hoi-tho-hoa-thinh-khong-310x165.jpg",
+      "href": "https://chiasemoi.com/sach-khi-hoi-tho-hoa-thinh-khong.html",
+      "title": "Tóm tắt sách Khi Hơi Thở Hóa Thinh Không"
+    },
+    {
+      "img": "https://chiasemoi.com/wp-content/uploads/2019/02/sach-doi-ngan-dung-ngu-dai-310x165.jpg",
+      "href": "https://chiasemoi.com/sach-doi-ngan-dung-ngu-dai.html",
+      "title": "Tóm tắt sách Đời Ngắn Đừng Ngủ Dài"
+    },
+    {
+      "img": "https://chiasemoi.com/wp-content/uploads/2019/02/sach-nguoi-giau-nhat-thanh-babylon-310x165.jpg",
+      "href": "https://chiasemoi.com/sach-nguoi-giau-nhat-thanh-babylon.html",
+      "title": "Tóm tắt sách Người Giàu Có Nhất Thành Babylon"
+    },
+    {
+      "img": "https://chiasemoi.com/wp-content/uploads/2019/02/sach-tuoi-tre-dang-gia-bao-nhieu-310x165.jpg",
+      "href": "https://chiasemoi.com/sach-tuoi-tre-dang-gia-bao-nhieu.html",
+      "title": "Tóm tắt sách Tuổi Trẻ Đáng Giá Bao Nhiêu?"
+    },
+    {
+      "img": "https://chiasemoi.com/wp-content/uploads/2019/02/sach-nguoi-gioi-khong-phai-la-nguoi-lam-tat-ca-310x165.jpg",
+      "href": "https://chiasemoi.com/sach-nguoi-gioi-khong-phai-la-nguoi-lam-tat-ca.html",
+      "title": "Tóm tắt sách Người Giỏi Không Phải Là Người Làm Tất Cả"
+    },
+    {
+      "img": "https://chiasemoi.com/wp-content/uploads/2019/02/sach-thuat-dau-tri-chau-a-310x165.jpg",
+      "href": "https://chiasemoi.com/sach-thuat-dau-tri-chau-a.html",
+      "title": "Tóm tắt sách Thuật đấu trí châu Á &#8211; Những chỉ dẫn kinh doanh mang tính “sống còn”"
+    }
+  ]
+}
